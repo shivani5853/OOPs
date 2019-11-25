@@ -1,0 +1,16 @@
+[
+	{
+		"Doctor Id": "DOC861",
+		"Id": "PAT341",
+		"Mobile": 0,
+		"Age": 54,
+		"Name": "shivani"
+	},
+	{
+		"Doctor Id": "DOC110",
+		"Id": "PAT589",
+		"Mobile": 0,
+		"Age": 312,
+		"Name": null
+	}
+]
